@@ -1,4 +1,5 @@
 # test_ripo
 ## index.html 
-## main.js
-## main.css
+## js
+## images
+## css
